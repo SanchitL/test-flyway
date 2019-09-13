@@ -1,3 +1,7 @@
+.DS_Store
+*/build/*
+main.exe.dSYM/
+
 # Prerequisites
 *.d
 
